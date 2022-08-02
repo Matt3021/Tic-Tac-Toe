@@ -17,7 +17,7 @@ body {
   color: #fff;
   border-radius: 10px;
   display: grid;
-  grid-template: repeat(3, 1fr)/repeat(3, 1fr);
+  grid-template: repeat(3, 1fr) / repeat(3, 1fr);
 }
 .game div {
   border: 6px solid #2c3e50;
